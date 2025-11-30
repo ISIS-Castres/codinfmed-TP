@@ -1,0 +1,12 @@
+[
+    {
+        "code": "R509",
+        "name": "Fièvre, sans précision",
+        "definition": "Élévation anormale de la température corporelle sans cause précise identifiée."
+    },
+    {
+        "code": "I959",
+        "name": "Hypotension, sans précision",
+        "definition": "Pression artérielle anormalement basse, sans qu'une cause spécifique soit identifiée."
+    }
+]

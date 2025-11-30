@@ -1,0 +1,29 @@
+{
+  "entities": [
+    {
+      "label": "PERSON",
+      "spans": [
+        0,
+        15
+      ],
+      "entity": "Daniil Medvedev"
+    },
+    {
+      "label": "SPORT",
+      "spans": [
+        29,
+        35
+      ],
+      "entity": "tennis"
+    },
+    {
+      "label": "PLACE",
+      "spans": [
+        53,
+        59
+      ],
+      "entity": "Monaco"
+    }
+  ],
+  "text": "Daniil Medvedev is a Russian tennis player living in Monaco."
+}
